@@ -2,7 +2,7 @@
 
 ## Data Scientist 🔍 | Passionate About Data-Driven Solutions 📊
 
-I am a **Data Scientist** with **1+ year** of experience in uncovering actionable insights from data. *(My experience level automatically increases each year!)*  
+I am a **Data Scientist** with **1+ year** of experience in uncovering actionable insights from data.
 I specialize in:
 - 📈 Data Analysis & Visualization
 - 🤖 Machine Learning & Predictive Modeling
@@ -19,6 +19,13 @@ I enjoy tackling real-world problems and helping organizations transform data in
 
 ---
 
+## Looking for Opportunities 🚀
+
+I'm actively looking for **Freelance and Full time Jobs in AI and the Data Field**. If you have a project or a challenge in these areas, let's connect!
+
+
+---
+
 ## Let's Connect 🤝
 
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil%20Thorat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahilthorat/)
@@ -31,7 +38,7 @@ I enjoy tackling real-world problems and helping organizations transform data in
 
 ## About My Work 💡
 
-I believe in leveraging the power of data to solve complex challenges and drive business innovation. Whether you need help with data analysis, predictive modeling, or machine learning, I am here to help. Feel free to reach out for a discovery call or just to connect and discuss the latest in data science!
+I believe in leveraging the power of data to solve complex challenges and drive business innovation. Whether you need help with data analysis, predictive modeling, or machine learning, I am here to help. Feel free to reach out for a discovery call or just to connect and discuss the latest in data science and AI!
 
 > *"Data is the new oil."* – A guiding principle in my journey towards making data actionable and valuable. 🚀
 
