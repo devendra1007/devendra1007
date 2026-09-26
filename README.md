@@ -1,4 +1,4 @@
-# Hi there, I'm **Devendra Thorat** 👋
+# Hi there, I'm **Sahil Thorat** 👋
 
 ## Data Scientist 🔍 | Passionate About Data-Driven Solutions 📊
 
