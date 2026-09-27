@@ -6,6 +6,7 @@
 
 Applied AI · Full-Stack Engineering · Data
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devendra1007.github.io-4ee1b5?style=flat-square&logo=githubpages&logoColor=0b1120&labelColor=0b1120)](https://devendra1007.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrathorat301/)
 [![Email](https://img.shields.io/badge/Email-devendrathorat301%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devendrathorat301@gmail.com)
 [![Location](https://img.shields.io/badge/New_Orleans,_LA-US-555555?style=flat-square)](#)
@@ -19,6 +20,8 @@ Applied AI · Full-Stack Engineering · Data
 Engineer working end to end across applied AI, the full-stack products around it, and the data layer beneath both. Three-plus years progressing from data analysis to data science to engineering leadership, delivered largely in HIPAA-regulated healthcare and regulated finance environments.
 
 My focus is applied: LLM application development, agentic workflows, retrieval systems, and the integrations that connect them to systems a business already runs on.
+
+Full background, selected projects and publications: **[devendra1007.github.io](https://devendra1007.github.io)**
 
 ---
 
@@ -125,5 +128,6 @@ Second author, with Veena Kumari and co-authors. *Innovations in VLSI, Signal Pr
 
 Open to conversations on applied AI in regulated domains, agentic systems in production, and data platforms that teams can act on.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devendra1007.github.io-4ee1b5?style=flat-square&logo=githubpages&logoColor=0b1120&labelColor=0b1120)](https://devendra1007.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdevendrathorat301-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrathorat301/)
 [![Email](https://img.shields.io/badge/Email-devendrathorat301%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:devendrathorat301@gmail.com)
