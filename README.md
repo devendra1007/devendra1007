@@ -3,9 +3,9 @@
 
 # Sahil Thorat
 
-**Applied AI and Healthcare Integration Engineer**
+**Applied AI Engineer**
 
-Applied AI · Healthcare Integration · Full-Stack Engineering · Data
+Applied AI · AI Agents · Integrations · Full-Stack Engineering
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilthorat.pages.dev-4ee1b5?style=flat-square&labelColor=0b1120&logo=githubpages&logoColor=0b1120)](https://sahilthorat.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdevendrathorat301-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrathorat301)
@@ -18,9 +18,9 @@ Applied AI · Healthcare Integration · Full-Stack Engineering · Data
 
 ## <img src="assets/icons/user-round.svg" width="20" align="top" alt=""> About
 
-I'm an applied AI and healthcare integration engineer with 4+ years of experience. I've grown from data analyst to data scientist to Lead AI Engineer, and now CTO at Sensiva Health, a diagnostics company with four clinical labs.
+I'm an applied AI engineer. I build AI that people actually use, like voice agents, private LLMs, and automations, and I connect it to the systems a business already runs on.
 
-I build LLM agents, RAG systems, and fine-tuned models that run in production, and I connect them to the EHRs and lab systems clinics already use, over HL7, FHIR, and ASTM. I've integrated more than 50 customer clinics, working with clinic staff from the first conversation through prototypes, demos, and rollout, and I measure whether what I ship actually works.
+Right now I'm the hands-on CTO at Sensiva Health, where I lead a small engineering team. Before that I was the only engineer at a pain clinic, where an AI receptionist I built cut missed calls from more than 3,000 a month to about 15.
 
 Full background, projects, and publications: **[sahilthorat.pages.dev](https://sahilthorat.pages.dev)**
 
@@ -44,25 +44,19 @@ Full background, projects, and publications: **[sahilthorat.pages.dev](https://s
 **Data Scientist** · Sep 2024 to Sep 2025
 
 - Cut missed patient calls from 3,000+ to about 15 a month (out of roughly 16,000) by building an LLM-powered AI voice receptionist with Twilio and ElevenLabs.
-- Replaced manual end-of-day reporting with a daily automated job (Playwright on AWS EC2) that loads EHR production and order reports into SQL Server and Excel.
-- Built Tableau and Power BI dashboards (DAX, Power Query, row-level security) that the CEO and CFO used to track production and order trends, and presented the findings to them.
+- Built the clinic's internal platform and public website as the only engineer, connecting the EHR over FHIR and a third-party API with role-based access.
 
 ### Illinois Institute of Technology
 *Chicago, IL · part-time during M.S.*
 
 **Teaching Assistant, Data Science and Statistics** · Aug 2023 to May 2024
 
-- Taught tutorial sections and ran lab hours for data science, machine learning, and statistics courses, helping students debug Python code and understand the models.
-- Graded assignments and exams with written feedback, and held office hours for students working through projects.
 
 ### Infinite Infolab
 *Ahmedabad, India · full-time intern May to Jul 2022, then part-time alongside B.Tech*
 
 **Data Analyst** · May 2022 to Apr 2023
 
-- Cut manual reporting time by about 40% for an e-commerce client with $600K (INR 5 crore) in yearly sales by combining data from several sources with SQL, Python, and Power Query into Power BI and Tableau dashboards.
-- Wrote DAX measures (year-over-year growth, running totals, margin) so business teams could check revenue, channel, and inventory KPIs themselves instead of waiting on manual reports.
-- Checked sales data for errors across channels with SQL (CTEs, window functions) and Excel (pivot tables, XLOOKUP, VBA macros), catching mismatches before they reached client reports.
 
 ---
 
@@ -75,35 +69,16 @@ Full background, projects, and publications: **[sahilthorat.pages.dev](https://s
 ![Anthropic Claude API](https://img.shields.io/badge/Anthropic_Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Voice Agents](https://img.shields.io/badge/Voice_Agents-Twilio_%C2%B7_ElevenLabs-F22F46?style=flat-square)
 
-**Healthcare & Interoperability**
-
-![HL7 v2](https://img.shields.io/badge/HL7_v2-0F766E?style=flat-square)
-![FHIR](https://img.shields.io/badge/FHIR-E8452C?style=flat-square)
-![EHR Integration](https://img.shields.io/badge/EHR_Integration-2563EB?style=flat-square)
-![HIPAA](https://img.shields.io/badge/HIPAA-555555?style=flat-square)
-
 **LLM Training & Inference**
 
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-333333?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Data Science & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Data Analytics & BI**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
 
 **Engineering & Cloud**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -118,8 +93,6 @@ Full background, projects, and publications: **[sahilthorat.pages.dev](https://s
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **LLM Lab** | Explores how language models are built, fine-tuned, and served, from a small GPT-style model written from scratch to a 4-bit model serving several users at once. | Python, llama.cpp, LoRA, MCP |
-| [**EVision**](https://github.com/devendra1007/EV-Tableau) | Tracks electric vehicle adoption in Washington State in an interactive Tableau dashboard built on 149,496 verified registration records. | Tableau |
-| [**WorkoutAI**](https://github.com/devendra1007/WorkoutAI) | Classifies five barbell exercises and counts reps from wearable accelerometer and gyroscope data, at 90%+ accuracy across users and loads. | Python, pandas, scikit-learn, Matplotlib |
 | [**HandSpeak AI**](https://github.com/devendra1007/HandSpeak_AI) | Recognizes nine signs from a live webcam with an LSTM over MediaPipe keypoints, and sends a phone alert for emergency phrases. | Python, TensorFlow / Keras, OpenCV, MediaPipe |
 | [**Portfolio**](https://github.com/devendra1007/portfolio) | This profile's companion site, built from the same source as the resume. | TypeScript, React |
 
@@ -149,18 +122,9 @@ Second author. Veena Kumari, Sahil Sandip Thorat, and five co-authors. *Innovati
 
 ---
 
-## <img src="assets/icons/award.svg" width="20" align="top" alt=""> Certifications
-
-- Google Data Analytics Professional Certificate, Google via Coursera
-- IBM Data Science Professional Certificate, IBM via Coursera
-- Introduction to Big Data with Spark and Hadoop, IBM (2021)
-- Work Smarter with Microsoft Excel, Microsoft (2022)
-
----
-
 ## <img src="assets/icons/mail.svg" width="20" align="top" alt=""> Contact
 
-If you're building AI for healthcare or another regulated industry, or need someone who owns both the model and the integrations around it, I'd like to hear from you.
+If you're building something with AI and need someone who can take it from the first conversation to production, I'd like to hear from you.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilthorat.pages.dev-4ee1b5?style=flat-square&labelColor=0b1120&logo=githubpages&logoColor=0b1120)](https://sahilthorat.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdevendrathorat301-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrathorat301)
