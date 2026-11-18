@@ -20,7 +20,7 @@ Applied AI · AI Agents · Integrations · Full-Stack Engineering
 
 I'm an applied AI engineer. I build AI that people actually use, like voice agents, private LLMs, and automations, and I connect it to the systems a business already runs on.
 
-Right now I'm the hands-on CTO at Sensiva Health, where I lead a small engineering team. Before that I was the only engineer at a pain clinic, where an AI receptionist I built cut missed calls from more than 3,000 a month to about 15.
+Right now I lead AI engineering at Sensiva Health, where I run a small engineering team. Before that I was the only engineer at Wake Spine and Pain Specialists, where an AI receptionist I built cut missed calls from more than 3,000 a month to about 15.
 
 Full background, projects, and publications: **[sahilthorat.pages.dev](https://sahilthorat.pages.dev)**
 
@@ -29,22 +29,21 @@ Full background, projects, and publications: **[sahilthorat.pages.dev](https://s
 ## <img src="assets/icons/briefcase-business.svg" width="20" align="top" alt=""> Experience
 
 ### Sensiva Health
-*New Orleans, LA · 50-person diagnostics company operating four clinical labs*
+*New Orleans, LA · 50-person diagnostics company with four locations, promoted to CTO in Jan 2026*
 
-**Chief Technology Officer (hands-on)** · Jan 2026 to Present  
-**Lead AI Engineer** · Sep 2025 to Jan 2026
+**Lead AI Engineer** · Sep 2025 to Present
 
-- Built the clinical-lab platform that processes 100 to 500 samples a day across four labs (orders, samples, and results) on AWS with HIPAA-aligned security and CI/CD, leading a two-engineer team.
-- Connected 50+ customer clinics to the lab through EHR and instrument integrations (athenahealth and PointClickCare over FHIR, HL7 v2 feeds, Siemens analyzers over ASTM), with discovery, prototypes, and demos before each rollout.
-- Built Sensa, the company's private LLM for lab and HIPAA questions, raising verified answers from 0 to 29 of 30 and cutting wrong HIPAA answers to zero by fine-tuning Qwen3-4B and adding RAG and fact-checking.
+- Built the company's core operations platform on AWS, processing 100 to 500 orders a day across four locations with HIPAA-aligned security and CI/CD, and led a two-engineer team.
+- Connected 50+ customer sites to the platform through third-party integrations (FHIR APIs into athenahealth and PointClickCare, HL7 v2 feeds, device data over ASTM), with discovery, prototypes, and demos before each rollout.
+- Built Sensa, a private LLM assistant for operations and compliance questions, raising verified answers from 0 to 29 of 30 and cutting wrong compliance answers to zero by fine-tuning Qwen3-4B and adding RAG and fact-checking.
 
 ### Wake Spine and Pain Specialists
 *Cary, NC (Remote)*
 
 **Data Scientist** · Sep 2024 to Sep 2025
 
-- Cut missed patient calls from 3,000+ to about 15 a month (out of roughly 16,000) by building an LLM-powered AI voice receptionist with Twilio and ElevenLabs.
-- Built the clinic's internal platform and public website as the only engineer, connecting the EHR over FHIR and a third-party API with role-based access.
+- Cut missed customer calls from 3,000+ to about 15 a month (out of roughly 16,000) by building an LLM-powered AI voice receptionist with Twilio and ElevenLabs.
+- Built the company's internal platform and public website as the only engineer, connecting its records system over FHIR APIs and a third-party API with role-based access.
 
 ### Illinois Institute of Technology
 *Chicago, IL · part-time during M.S.*
