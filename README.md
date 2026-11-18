@@ -5,7 +5,7 @@
 
 **Applied AI Engineer**
 
-Applied AI · AI Agents · Integrations · Full-Stack Engineering
+Applied AI · Full-Stack Engineering · AI Agents · Integrations
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahilthorat.pages.dev-4ee1b5?style=flat-square&labelColor=0b1120&logo=githubpages&logoColor=0b1120)](https://sahilthorat.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fdevendrathorat301-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendrathorat301)
@@ -18,9 +18,9 @@ Applied AI · AI Agents · Integrations · Full-Stack Engineering
 
 ## <img src="assets/icons/user-round.svg" width="20" align="top" alt=""> About
 
-I'm an applied AI engineer. I build AI that people actually use, like voice agents, private LLMs, and automations, and I connect it to the systems a business already runs on.
+I'm an applied AI and full-stack engineer. I build complete systems, from the database, backend, and frontend to the integrations and security, with AI like voice agents, private LLMs, and agents built in.
 
-Right now I lead AI engineering at Sensiva Health, where I run a small engineering team. Before that I was the only engineer at Wake Spine and Pain Specialists, where an AI receptionist I built cut missed calls from more than 3,000 a month to about 15.
+At Sensiva Health I replaced an outdated system with an operations platform I built from scratch, and I lead a small engineering team. Before that I was the only engineer at Wake Spine and Pain Specialists, where an AI receptionist I built cut missed calls from more than 3,000 a month to about 15.
 
 Full background, projects, and publications: **[sahilthorat.pages.dev](https://sahilthorat.pages.dev)**
 
@@ -33,7 +33,7 @@ Full background, projects, and publications: **[sahilthorat.pages.dev](https://s
 
 **Lead AI Engineer** · Sep 2025 to Present
 
-- Built the company's core operations platform on AWS, processing 100 to 500 orders a day across four locations with HIPAA-aligned security and CI/CD, and led a two-engineer team.
+- Replaced an outdated system with a platform built from scratch (50-table PostgreSQL schema, 400+ FastAPI endpoints, React, role-based security, AWS CI/CD) that runs 100 to 500 orders a day, and led a two-engineer team.
 - Connected 50+ customer sites to the platform through third-party integrations (FHIR APIs into athenahealth and PointClickCare, HL7 v2 feeds, device data over ASTM), with discovery, prototypes, and demos before each rollout.
 - Built Sensa, a private LLM assistant for operations and compliance questions, raising verified answers from 0 to 29 of 30 and cutting wrong compliance answers to zero by fine-tuning Qwen3-4B and adding RAG and fact-checking.
 
